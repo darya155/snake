@@ -1,0 +1,9 @@
+E:\PROGRAMMING\01-GeekBrains\09_Курс ООП\Snake\Snake\bin\Debug\Snake.exe.config
+E:\PROGRAMMING\01-GeekBrains\09_Курс ООП\Snake\Snake\bin\Debug\Snake.exe
+E:\PROGRAMMING\01-GeekBrains\09_Курс ООП\Snake\Snake\bin\Debug\Snake.pdb
+E:\PROGRAMMING\01-GeekBrains\09_Курс ООП\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+E:\PROGRAMMING\01-GeekBrains\09_Курс ООП\Snake\Snake\obj\Debug\Snake.exe
+E:\PROGRAMMING\01-GeekBrains\09_Курс ООП\Snake\Snake\obj\Debug\Snake.pdb
+E:\PROGRAMMING\01-GeekBrains\09_Курс ООП\SnakeRep\Snake\Snake\bin\Debug\Snake.exe.config
+E:\PROGRAMMING\01-GeekBrains\09_Курс ООП\SnakeRep\Snake\Snake\obj\Debug\Snake.exe
+E:\PROGRAMMING\01-GeekBrains\09_Курс ООП\SnakeRep\Snake\Snake\obj\Debug\Snake.pdb

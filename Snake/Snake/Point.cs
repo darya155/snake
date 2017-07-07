@@ -12,12 +12,12 @@ namespace Snake
         public int y;
         public char sym;
 
-        public Point() //конструктор
+        public Point() //конструктор1
         {
             //Console.WriteLine("создается новая точка");
         }
 
-        public Point(int _x, int _y, char _sym)
+        public Point(int _x, int _y, char _sym)//конструктор2
         {
             x = _x;
             y = _y;

@@ -20,7 +20,13 @@ namespace Snake
             line.DrawLine();
 
             VerticalLine vline = new VerticalLine(10, 20, 4, '&');
-            vline.DrawVerLine();
+            vline.DrawLine();
+
+
+            //создали класс человек и работник
+            Emploee e = new Emploee();
+            e.age = 42;
+            e.pay = 30000;
         }
     }
 }
